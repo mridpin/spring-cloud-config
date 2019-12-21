@@ -1,0 +1,4 @@
+# Default config
+limits-service:
+  minimum: 2
+#  maximum: 222
